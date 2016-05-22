@@ -1,0 +1,11 @@
+.ImageDetail .panel-body {
+   text-align: center;
+}
+
+.ImageDetail img {
+   max-width: 100%;
+}
+
+.ImageDetail video {
+  max-width: 100%;
+}
