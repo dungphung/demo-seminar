@@ -1,18 +1,9 @@
-<<<<<<< HEAD
 
-SENIMAR CUỐI KỲ
-=======
 # SENIMAR CUỐI KỲ
->>>>>>> update
 
 ##CHỦ ĐỀ: REACT + FLUX
 
-<<<<<<< HEAD
-
-THÔNG TIN NHÓM
-=======
 ##THÔNG TIN NHÓM
->>>>>>> update
 - 1312098 – Phùng Văn Dũng
 - 1312071 – Nguyễn Thị Diệu
 - 1312070 – Nguyễn Phạm Hoàng Diễm
