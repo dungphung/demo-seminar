@@ -63,7 +63,8 @@
    - Slide: https://drive.google.com/file/d/0B7aoB6JqovPDYjBPX3M1UEptR0E/view?usp=sharing
    - Dem bằng gif:
 ![IV. GIỚI THIỆU SƠ LƯỢC VỀ FILE DEMO](demo.gif)
-##V. HƯỚNG DẪN CHẠY FILE DEMO
+
+## V. HƯỚNG DẪN CHẠY FILE DEMO
 ```
   - Chạy gulp (Nếu chưa cài npm instlal --save gulp , npm install -g gulp)
   - Chạy http-server (Nếu chưa cài: npm install -g http-server)
