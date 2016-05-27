@@ -1,6 +1,6 @@
-                          SENIMAR CUỐI KỲ
+SENIMAR CUỐI KỲ
 
-                       CHỦ ĐỀ: REACT + FLUX
+CHỦ ĐỀ: REACT + FLUX
 
 THÔNG TIN NHÓM
 - 1312098 – Phùng Văn Dũng
@@ -9,38 +9,38 @@ THÔNG TIN NHÓM
 - 1312123 – Nguyễn Ngô Thành Đạt
 
 I. REACT:
-React là gì?
-  Là thư viện javascript dung cho việc xây dựng giao diện người dùng
-  Do facebook xây dựng và phát triển nhằm giảy quyết vấn đề hiển thị phía người dung khi sử dụng facebook.
++ React là gì?
+-- Là thư viện javascript dung cho việc xây dựng giao diện người dùng
+-- Do facebook xây dựng và phát triển nhằm giảy quyết vấn đề hiển thị phía người dung khi sử dụng facebook.
 
-Đặc trưng:
-  Just the ui
-  Virtual Dom
-  Data Flow
++ Đặc trưng:
+-- Just the ui
+-- Virtual Dom
+-- Data Flow
 
-Ưu điểm:
-  Luôn biết được component  sẽ sinh ra mã HTML như thế nào chỉ cần nhìn vào file source
-  Tích hợp giữa javascript và HTML vào trong JSX làm cho các components dễ hiểu hơn
-  Render react ở phía server
++ Ưu điểm:
+-- Luôn biết được component  sẽ sinh ra mã HTML như thế nào chỉ cần nhìn vào file source
+-- Tích hợp giữa javascript và HTML vào trong JSX làm cho các components dễ hiểu hơn
+-- Render react ở phía server
 
-Khuyết điểm:
-  Tài liệu tìm hiểu nghèo nàn
-  React chưa phát triển hoàn chỉnh
++ Khuyết điểm:
+-- Tài liệu tìm hiểu nghèo nàn
+-- React chưa phát triển hoàn chỉnh
 
 II. FLUX
-  Là 1 thiết kế mô hình.
-  Sử dụng cho việc xây dựng ứng dụng web phía client.
-  Bổ sung khả năng kết hợp các view trong components của React bằng việc sử dụng data flow.
+-- Là 1 thiết kế mô hình.
+-- Sử dụng cho việc xây dựng ứng dụng web phía client.
+-- Bổ sung khả năng kết hợp các view trong components của React bằng việc sử dụng data flow.
 
-Bao gồm:
-  Action
-  Dispather
-  Store
-  View
++ Bao gồm:
+-- Action
+-- Dispather
+-- Store
+-- View
 
 III. TÀI LIỆU THAM KHẢO
-  https://facebook.github.io/react/
-  https://facebook.github.io/flux/
+--  https://facebook.github.io/react/
+--  https://facebook.github.io/flux/
 
 IV. GIỚI THIỆU SƠ LƯỢC VỀ FILE DEMO
    - Trang web load ảnh từ imgur.
