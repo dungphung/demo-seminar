@@ -61,6 +61,7 @@
    - Nhấn vào ảnh có thể xem đc comment và người comment.
 ```
    - Slide: https://drive.google.com/file/d/0B7aoB6JqovPDYjBPX3M1UEptR0E/view?usp=sharing
+   - Dem bằng gif:
 ![IV. GIỚI THIỆU SƠ LƯỢC VỀ FILE DEMO](demo.gif)
 ##V. HƯỚNG DẪN CHẠY FILE DEMO
 ```
