@@ -60,9 +60,9 @@
    - Có topic và ảnh trong từng topic
    - Nhấn vào ảnh có thể xem đc comment và người comment.
    - Slide: https://drive.google.com/file/d/0B7aoB6JqovPDYjBPX3M1UEptR0E/view?usp=sharing
-   - Demo bằng gif
-   ![IV. GIỚI THIỆU SƠ LƯỢC VỀ FILE DEMO](demo.gif)
+   - Demo bằng gif:   
 ```
+![IV. GIỚI THIỆU SƠ LƯỢC VỀ FILE DEMO](demo.gif)
 ##V. HƯỚNG DẪN CHẠY FILE DEMO
 ```
   - Chạy gulp (Nếu chưa cài npm instlal --save gulp , npm install -g gulp)
